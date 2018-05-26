@@ -1,19 +1,19 @@
 # hw9
 Использовала регулярное выражение: **\n\r** заменила все вхождения на **\0**
 
-(https://github.com/ekaterinasmirnova1712/hw9/blob/master/1.PNG)
+![](https://github.com/ekaterinasmirnova1712/hw9/blob/master/1.PNG)
 
 Использовала регулярное выражение: **[А-Я]+(слав)** Всего упоминаний о князьях нашел: **592**
 
-(https://github.com/ekaterinasmirnova1712/hw9/blob/master/0.PNG)
+![](https://github.com/ekaterinasmirnova1712/hw9/blob/master/0.PNG)
 
 Использовала регулярное выражение: **Нов.*?город.*?** Всего упоминаний Новгорода нашел: **59**
 
-(https://github.com/ekaterinasmirnova1712/hw9/blob/master/3.PNG)
+![](https://github.com/ekaterinasmirnova1712/hw9/blob/master/3.PNG)
 
 *Бонусное задание*
 
 Для правильной постановки пробелов рядом со знаками препинания использовала следующее регулярное выражение: **(?<=[.,:;])(?=[А-Яа-яѣ«\[\]])** и заменила выходные данные на пробел (**\s**)
 
 
-(https://github.com/ekaterinasmirnova1712/hw9/blob/master/6.PNG)
+![](https://github.com/ekaterinasmirnova1712/hw9/blob/master/6.PNG)
